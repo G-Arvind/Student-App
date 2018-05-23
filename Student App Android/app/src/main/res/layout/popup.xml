@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:id="@+id/h1"
+        android:textColor="#000000"
+        android:text="Hour 1 : "
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/lightgray"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:id="@+id/h2"
+        android:textColor="#000000"
+        android:text="Hour 2 : "
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/lightgray"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:id="@+id/h3"
+        android:textColor="#000000"
+        android:text="Hour 3 : "
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/lightgray"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:id="@+id/h4"
+        android:textColor="#000000"
+        android:text="Hour 4 : "
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/lightgray"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:id="@+id/h5"
+        android:textColor="#000000"
+        android:text="Hour 5 : "
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/lightgray"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:id="@+id/h6"
+        android:textColor="#000000"
+        android:text="Hour 6 : "
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/lightgray"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:id="@+id/h7"
+        android:textColor="#000000"
+        android:text="Hour 7 : "
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:gravity="center"
+        android:text="Close"
+        android:textSize="30dp"
+        android:id="@+id/txtclose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>
